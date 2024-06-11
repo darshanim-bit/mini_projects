@@ -1,2 +1,2 @@
 # mini_projects
-Python small projects to learning perpose
+Python small projects for learning perpose
